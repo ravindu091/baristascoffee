@@ -3,14 +3,12 @@
 ![Coffee Shop Website](https://img.shields.io/badge/Project-Coffee%20Shop-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-A modern coffee shop website for Barista's Coffee, featuring an elegant UI, menu display, and order management system.
+A modern coffee shop website for Barista's Coffee, featuring an elegant UI and menu display.
 
 ## 🚀 Features
 
 - Responsive web design
 - Interactive coffee menu with categories
-- Shopping cart functionality
-- Order tracking system
 - Contact form integration
 - Modern UI with animations
 - Admin dashboard (coming soon)
